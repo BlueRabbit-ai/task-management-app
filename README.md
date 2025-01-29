@@ -34,7 +34,7 @@ The **Advanced Task Management App** is a powerful and intuitive web application
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/task-management-app.git
+   git clone https://github.com/BlueRabbit-ai/task-management-app.git
    cd task-management-app
    ```
 
@@ -133,9 +133,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 For any issues or suggestions, feel free to reach out:
 
-📩 Email: [your-email@example.com](mailto:your-email@example.com)  
-🐙 GitHub: [your-github-profile](https://github.com/your-username)  
-🚀 Project Repo: [GitHub Repository](https://github.com/your-username/task-management-app)
+📩 Email: [hasani.ramin@icloud.com](hasani.ramin@icloud.com)  
+🐙 GitHub: [BlueRabbit](https://github.com/BlueRabbit.ai)  
+🚀 Project Repo: [GitHub Repository](https://github.com/BlueRabbit-ai/task-management-app)
 
 ---
 
